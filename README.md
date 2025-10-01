@@ -56,7 +56,7 @@ DVA Theme v2.2.1/
 
 ## 📝 Customization
 - ✏️ Edit gradients & card styles in the embedded `<style>` blocks or link your own `theme.css`.
-- 🔧 Add new widgets in `resources/views/layouts/seven/dashboard/widgets/`.
+- 🔧 Add new widgets in `resources/views/layouts/dva/dashboard/widgets/`.
 - 🎨 Update emoji/nav icons in `partials/navbar.blade.php`.
 
 ---
